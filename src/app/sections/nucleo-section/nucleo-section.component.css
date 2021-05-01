@@ -1,0 +1,11 @@
+.landing-icons {
+    display: flex;
+    flex-direction: column;
+
+}
+.header{
+    color: #060d48;
+    font-weight: 700;
+    width: 300px;
+    text-align: center;
+}
